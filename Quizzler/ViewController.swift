@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //Place your instance variables here
+    
+    
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet var progressBar: UIView!
