@@ -1,11 +1,12 @@
 # Quizzler
-Learn to make iOS Apps 📱 | Project Stub | (Swift 2.0/Xcode 7) - Quizzler App
+Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Quizzler App
 
-Download the starter project files as .zip and extract to your desktop. --->
+Beginner: Download the starter project files as .zip and extract the files to your desktop.
+
+Pro: Git clone to your Xcode projects folder.
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
-
 
 
 
@@ -44,4 +45,4 @@ Download the starter project files as .zip and extract to your desktop. --->
         
         
 
-Copyright 2015 London App Brewery
+Copyright © The App Brewery
